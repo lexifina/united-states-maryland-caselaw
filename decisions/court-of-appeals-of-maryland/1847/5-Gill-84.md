@@ -1,7 +1,8 @@
 ---
 court: "Court of Appeals of Maryland"
 decided: "1847-06"
-citations: ["5 Gill 84", "5 Gill 88"]
+decided_precision: "month"
+citations: ["5 Gill 84"]
 reporter: "gill"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Amos A. Williams vs. George H. Williams, Trustee of George Williams, 
 source_url: "https://static.case.law/gill/5/cases/0084-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1704976
-cites_cases: ["8 G. & J. 443"]
 ---
 
 # Williams v. Williams
