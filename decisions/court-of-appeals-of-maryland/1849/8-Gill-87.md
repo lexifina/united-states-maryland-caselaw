@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Maryland"
+decided: "1849-06"
+citations: ["8 Gill 87"]
+reporter: "gill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ann Edelen vs. Bennet Gough."]
+source_url: "https://static.case.law/gill/8/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1710274
+cites_cases: ["5 Gill, 103", "5 Gill, 108"]
+---
+
+# Edelen v. Gough
+
+## Majority (Martin, J.,)
+
+Martin, J.,
+delivered the opinion of this court.
+It appears from the record in this case, that at the trial of the cause below, the defendant, before any juror had been sworn, and after he had stricken four names from the panel delivered to him, moved the court that the several jurors, before they were sworn to try the issue, should be asked whether they had formed and expressed an opinion as to the merits of the case; and the court overruled the motion, upon the ground that the defendant had previously stricken four names from the panel.
+We think the court erred in overruling the motion of the defendant. No objection was interposed by the plaintiff, and the prayer of the defendant was preferred to the court, upon the supposition that the plaintiff either had or would exercise his statutory privilege of striking peremptorily four names from the panel which had been delivered to him. The object of the defendant was to exclude from the list of jurors, after each party had stricken four names, those who had formed and expressed an opinion with respect to the merits of the case. This-was his undoubted privilege, upon the true construction of the act of Assembly of 1797, ch. 57, as expounded by the Court of Appeals, in the case of Lee against Peter, 6 Gill John., 447. If one or more of the jurors remaining on the panel, after each party had exercised his statutory right of striking four names from the list of twenty, had been rejected as incompetent, their places should have been supplied by further draughts from the ballot-box, or, if necessary, by a tales. For example, if six jurors had been sworn to try the cause, and six rejected for favor, or any other legitimate reason, ten more jurors would have been drawn, and so in proportion, until an impartial jury was obtained. We desire it to be understood as our opinion, that either party may challenge a juror, for cause, before he is sworn, whether he has ■ or has not exercised his statutory right of striking four names peremptorily from the panel.
+It appears from the facts exhibited in the second exception, that the plaintiff, to support the issue joined by him on the plea of non est factum, proved by a witness, that he had seen the defendant write her name on one occasion in 1846, and that from his knowledge of her handwriting, he believed the signature to the cause of action offered in evidence to be genuine. The testimony was objected-to by the counsel for the appellant, as inadmissible to prove that the signature in controversy was in the defendant’s handwriting. The evidence was properly •received by the court. The witness who had seen the defendant write, although but once, was competent to speak with respect to the genuineness of the disputed signature, as the opinion which he formed and communicated to the jury was formed, as he states in his testimony, upon knowledge of the general character of her handwriting thus acquired. A similar question has been decided by this court at its present term, in the case of Smith vs. Walton, ante p. 77.
+The court below were correct, we think, in rejecting the testimony offered by the defendant in relation to Henry A. Edelen, as detailed in the third bill of exceptions. We find from the record, that when this case was first tried in the court below, the defendant offered to read in evidence to the jury the administration accounts of Henry A. Edelen, showing a settlement and overpayment of the debts before the date of the writing obligatory, upon which the suit was instituted, and that he was not related to the defendant in blood, or connected with her in estate, as a circumstance to be weighed by the jury, upon the issues in the case. This evidence was rejected by the county court, as illegal and incompetent. The decision was affirmed by the Court of Appeals on the former appeal, and when considering the question of its admissibility, they said: “ It was, in its nature, so remote and irrelevant to the
+matter in issue in the cause, that its effect would most probably have been to bewilder and mislead the jury, and would have opened a door by which the jury might have been involved in the trial of a complication of issues, the finding of which would have had no bearing on the questions which the jury were sworn to try.” 5 Gill, 108. The same testimony has been again oil'ered in connection with the opinion of a witness who stated that, he was familiar with the handwriting of the defendant, and that, in his opinion, the signature to the paper in controversy was not in her handwriting, and that Henry A. Edeleii, who is named in the single bill on which the suit is brought, died some twenty years since. This testimony was, we thing, properly rejected, so far as it related to Henry A. Edelen. For it must be obvious, that the objection to that portion of the evidence ruled to be inadmissible on the former appeal, upon the ground of its intrinsic remoteness and irrelevancy, would not be obviated by the superadded testimony which it was proposed to introduce into the cause.
+We reverse the opinion of the county court, as expressed in the first exception, and affirm their opinions in the second and third exceptions.
+JUDGMENT REVERSED, AND
+PROCEDENDO AWARDED.
